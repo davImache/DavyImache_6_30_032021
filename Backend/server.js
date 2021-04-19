@@ -4,12 +4,12 @@ const http = require("http");
 //Importer l'application app
 const app = require("./app");
 
-//Configuration base de donnée 
+//Importer les bases de donnée
 require("dotenv").config({ path: "./config/.env" });
 require("./config/dbConfig");
 
-//Dire à l'application express sur quel port elle doit être lancée
-app.set('port', process.env.PORT || 3000);
+//Dire à l'application sur quel port elle doit être lancée
+app.set("port", process.env.PORT || 3000);
 
 //Crée le server
 const server = http.createServer(app);
