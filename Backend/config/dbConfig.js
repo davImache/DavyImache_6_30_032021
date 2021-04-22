@@ -1,6 +1,7 @@
-//Etablir la connexion avec MongoDb
+//Importer mongoose
 const mongoose = require("mongoose");
 
+//Etablir la connexion avec MongoDb
 mongoose
   .connect(
     "mongodb+srv://" +
@@ -12,5 +13,5 @@ mongoose
   )
   .then(() => console.log("Connexion à MongoDB réussie !"))
   .catch(() => console.log("Connexion à MongoDB échouée !"));
-
+  
 module.exports = mongoose;
