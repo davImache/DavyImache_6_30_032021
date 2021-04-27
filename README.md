@@ -1,5 +1,5 @@
 So Pekocko     
-PROJET 6 OPENCLASSROOMS : Construire une API sécurisée pour une application d'avis gastronomiques
+PROJET 6 OPENCLASSROOMS : Construire une API sécurisée pour une application d'avis gastronomiques.    
 (DavyImache_6_30_032021)
 
 => Présentation : Construire une API sécurisée pour une application d'avis gastronomiques.
