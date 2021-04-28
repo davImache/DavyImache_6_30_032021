@@ -15,7 +15,7 @@ La partie frontend a été générée avec Angular CLI version 7.0.2 et la parti
 
 
   
-## Installation
+## Installation :
 
 Le projet utilise une partie frontend d'un autre dépot en sous-module :
 ```bash
