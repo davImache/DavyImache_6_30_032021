@@ -31,7 +31,7 @@ Pour cloner le projet final (Backend + Frontend) utilisez dans votre terminal :
 A partir du dossier frontend, exécutez `npm install` puis `ng serve`, le serveur doit fonctionner sur :
 `http://localhost:3000/`
 
-A partir du dossier backend,, exécutez `npm install` puis `nodemon server`, le serveur doit fonctionner sur :
+A partir du dossier backend, exécutez `npm install` puis `nodemon server`, le serveur doit fonctionner sur :
 `http://localhost:4200/`
 
 
